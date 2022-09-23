@@ -1,0 +1,52 @@
+/*HEADER*/
+header {
+    margin: 0%;
+    padding: 0%;
+
+}
+
+nav{
+    background: rgb(127, 127, 243);
+    height:80px;
+    border-radius: 30px;
+}
+
+.logo{
+    color: white;
+    font-size: 50px;
+    margin: 20px;
+    line-height: 70px;
+}
+
+nav ul{
+    float: right;
+    margin: 20px;
+
+}
+nav ul li{
+    display: inline-block;
+    padding: 13px;
+    line-height: 20px; 
+
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+    border-radius:30px; 
+    padding: 5px 5px;
+}
+
+a:visited ,a:hover {
+background-color: rgb(10, 134, 243);
+transition: 0.55;
+  }
+ /*main*/
+            /*home*/
+            h1{
+                text-align: center;
+                font-family:bold;
+                text-transform: uppercase;
+            }
